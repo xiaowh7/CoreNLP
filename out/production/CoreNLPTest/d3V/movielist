@@ -1,0 +1,86 @@
+Frankenweenie	Frankenweenie	0
+Butter	(\s+|^|#)Butter\\s+	1
+Taken 2	Taken\s*2	1
+The House I Live In	The\s*House\s*I\s*Live\s*In	0
+The Paperboy	The\s*Paperboy	0
+V/H/S	(\s+|^|#)V[\.\s/]?H[\.\s/]?S\s+	0
+Argo	(\s+|^|#)Argo|ARGO	1
+Atlas Shrugged: Part 2	Atlas\s*Shrugged(:\s*Part 2)?	0
+Here Comes the Boom	Here\s*Comes\s*the\*Boom	0
+Seven Psychopaths	Seven\s*Psychopaths	0
+Sinister	Sinister|SINISTER	1
+Nobody Walks	Nobody\s*Walks	1
+Smashed	Smashed	1
+Pitch Perfect	Pitch\s*Perfect	0
+War of the Buttons	War\s*of\s*the\s*Buttons	0
+Holy Motors	Holy\s*Motors	0
+Alex Cross	Alex\s*Cross	0
+Paranormal Activity 4	Paranormal\s*Activity(\s*4)?	0
+The First Time	The\s*First\s*Time	1
+The Sessions	The\s*Sessions	0
+Tai Chi 0	Tai\s*Chi\s*0	0
+Chasing Mavericks	Chasing\s*Mavericks	0
+Cloud Atlas	Cloud\s*Atlas	0
+Fun Size	Fun\s*Size	1
+Silent Hill: Revelation 3D	(Silent\s*Hill)|(Revelation\s*3D)	0
+Flight	(\s+|^|#)Flight|FLIGHT	1
+The Man with the Iron Fists	(The\s*)?Man\s*with\s*(the)?\s*Iron\s*Fists	0
+Wreck-It Ralph	Wreck(-|\s*)It\s*Ralph	0
+The Bay	(The\s*Bay)|(THE\s*BAY)	1
+The Details	The\s*Details	1
+High Ground	High\s*Ground	1
+Jack and Diane	Jack\s*and\s*Diane	0
+A Late Quartet	A\s*Late\s*Quartet	0
+This Must Be the Place	This\s*Must\s*Be\s*the\s*Place	0
+Skyfall	Skyfall	0
+The Comedy	The\s*Comedy	1
+Nature Calls	Nature\s*Calls	0
+Silver Linings Playbook	Silver\s*Linings\s*Playbook	0
+The Twilight Saga: Breaking Dawn - Part 2	(The\s*)?Twilight\s*Saga\s*(:)?\s*(Breaking\s*Dawn)?	0
+Anna Karenina	Anna\s*Karenina	1	
+Dangerous Liaisons	Dangerous\s*Liaisons	1
+Price Check	Price\s*Check	1
+Red Dawn	Red\s*Dawn	1
+Rise of the Guardians	Rise\s*of\s*the\s*Guardians	0
+The Central Park Five	The\s*Central\s*Park\s*Five	0
+Rust & Bone	Rust\s*(&)?\s*Bone	1
+Killing Them Softly	Killing\s*Them\s*Softly	0
+The Collection	The\s*Collection	1
+Playing for Keeps	Playing\s*for\s*Keeps	0
+Deadfall	Deadfall	1
+Hyde Park on Hudson	Hyde\s*Park\s*on\s*Hudson	0
+Lay the Favorite	Lay\s*the\s*Favorite	0
+The Hobbit: An Unexpected Journey	The\s*Hobbit	1
+Save the Date	Save\s*the\s*Date	0
+The Guilt Trip	The\s*Guilt\s*Trip	0
+Monsters Inc	Monsters\s*(,)?\s*Inc	0
+Amour	(\s+|^|#)Amour|AMOUR	1
+Zero Dark Thirty	Zero\s*Dark\s*Thirty	0
+Cirque Du Soleil: Worlds Away	Worlds\s*Away	1
+Jack Reacher	Jack\s*Reacher	0
+This is 40	This\s*is\s*40	0
+The Impossible	The\s*Impossible	1
+Not Fade Away	Not\s*Fade\s*Away	1
+On the Road	On\s*the\s*Road	1
+Django Unchained	Django\s*Unchained	0
+Les Miserables	Les\s*Miserables	0
+Parental Guidance	Parental\s*Guidance	0
+Promised Land	Promised\s*Land	1
+Quartet	Quartet	1
+Hotel Transylvania	Hotel\s*Transylvania	0
+Lincoln	Lincoln	1
+Life of Pi	Life\s*of\s*Pi	0
+Talaash	(\s+|^|#)Talaash|TALAASH	1
+The Perks of Being a Wallflower	Perks\s*of\s*Being\s*a\s*Wallflower	0
+Kill Me Now	Kill\s*Me\s*Now	0
+Wagner & Me	Wagner & Me	0
+Looper	Looper	1
+The Odd Life of Timothy Green	Odd\s*Life\s*of\s*Timothy\s*Green|#TimothyGreen	0
+Son of Sardaar	Son\s*of\s*Sardaar	0
+ParaNorman	ParaNorman	0
+Universal Soldier: Day of Reckoning	Day\s*of\s*Reckoning	0
+Any Day Now	Any\s*Day\s*Now	0
+Jason Becker: Not Dead Yet	Jason\s*Becke\s*(:)?\s*Not\s*Dead\s*Yet	0
+Trashed	Trashed	1
+West of Memphis	West of Memphis	0
+Lore	(\s+|^|#)Lore\b	1	
